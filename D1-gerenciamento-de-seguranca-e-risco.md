@@ -25,7 +25,7 @@ CIA TRIAD - Você não pode ter o nível máximo de tudo
 </p>
 
 
-### Evaluate and apply security governance principles
+### Avaliar e aplicar os princípios de governança. <> Evaluate and apply security governance principles
 ##### English please?? - These are just defined roles, and processes for each role, to make sure executive management is informed about IT decisions being made.  This makes sure that information is appropriately secured, communicated, documented, and budgeted for.  It's like a questionaire.  Look at ISO 27000 to get requimrents for which security frameworks you should impliment.  Think of security frameworks as blue prints and governance principles(iso 27000 or togaf) as guides for how to draw blueprints.
 * Alignment of security function to business strategy, goals, mission, and objectives
   * Have to analyze cost of loss/thieft information, cost to impliment controls, and the benefit to organization by certain controls.
