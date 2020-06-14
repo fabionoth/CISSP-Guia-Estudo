@@ -19,7 +19,7 @@
   * Redundância e backups para garantir tempo de inatividade. (Has backups and redundancy to ensure no downtime)
   
 #### How do they relate to each other?
-CIA TRIAD - You can't have maximum levels of everything
+CIA TRIAD - Você não pode ter o nível máximo de tudo
 <p align="center">
   <img width="460" height="300" src="https://downgrade.org/wp-content/uploads/2006/10/figure2.gif">
 </p>
