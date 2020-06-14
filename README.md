@@ -21,15 +21,15 @@ Este é um material de estudo para o exame da CISSP de 2018 (traduzido e adaptad
 
 [Domínio 8: Desenvolvimento de Software Seguro](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D8%20-%20Software%20Development%20Security.md)
 
-[Another great study guide with definitions and pictures](https://github.com/so87/CISSP-Study-Guide/blob/master/StudyNotes.pdf) Thanks Scott Gibbsons for sharing!
+[Outro ótimo guia de estudos com definições e imagens](https://github.com/so87/CISSP-Study-Guide/blob/master/StudyNotes.pdf) Thanks Scott Gibbsons for sharing!
 
-# About the exam:
-Need 5 years expierence for certification.  Get associate if less than that.<br />
-3 hours <br />
-100-150 Multiple Choice Questions <br />
-70% to pass <br />
-All domains 10-15% of score <br />
-[Official Information](https://www.isc2.org/Certifications/-/media/CC72396FD9F34D3AAF073BF2AADB185C.ashx)
+# Sobre o Exame:
+* São necessários 5 anos de exéricência para a certificação.
+* 3 horas
+* 100-150 Questões de multipla escolha
+* 70% para passar
+* Todos os domínios 10-15%
+[Informações Oficiais](https://www.isc2.org/Certifications/-/media/CC72396FD9F34D3AAF073BF2AADB185C.ashx)
 
 # Study Tools:
 [General Tips](https://github.com/so87/CISSP-Study-Guide/blob/master/General%20Tips.md)<br />
