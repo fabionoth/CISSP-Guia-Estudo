@@ -18,7 +18,7 @@
   * Não vulnerável a DoS
   * Redundância e backups para garantir tempo de inatividade. (Has backups and redundancy to ensure no downtime)
   
-#### How do they relate to each other?
+#### Como eles estão relacionados entre si mesmos?
 CIA TRIAD - Você não pode ter o nível máximo de tudo
 <p align="center">
   <img width="460" height="300" src="https://downgrade.org/wp-content/uploads/2006/10/figure2.gif">
@@ -26,7 +26,9 @@ CIA TRIAD - Você não pode ter o nível máximo de tudo
 
 
 ### Avaliar e aplicar os princípios de governança. <> (Evaluate and apply security governance principles)
-##### English please?? - These are just defined roles, and processes for each role, to make sure executive management is informed about IT decisions being made.  This makes sure that information is appropriately secured, communicated, documented, and budgeted for.  It's like a questionaire.  Look at ISO 27000 to get requimrents for which security frameworks you should impliment.  Think of security frameworks as blue prints and governance principles(iso 27000 or togaf) as guides for how to draw blueprints.
+##### Estão apenas definições de regras e processos para cada função, para garantir o gerenciamento executivo é informado sobre as decições feitas pela TI. Isso garante que a informação é adequadamente segura, comunicável, documentável e com orcamento para isso. É como um questionário. Olhe para a ISO 27000 para conseguir os requisitos para cada framework de segurança implementada. Pense que os fremeworks como blue prints e princípios de governçanca (iso 27000 ou togaf), como guias para desenhar blueprints. 
+
+
 * Alignment of security function to business strategy, goals, mission, and objectives
   * Have to analyze cost of loss/thieft information, cost to impliment controls, and the benefit to organization by certain controls.
 * Organizational processes (e.g., acquisitions, divestitures, governance committees)
