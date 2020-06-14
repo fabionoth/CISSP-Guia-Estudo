@@ -1,13 +1,13 @@
-# Security and Risk Management
+# Gerenciamento de Risco e Segurança
 
-[Back to Home Page](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
-[To next domain! - D2 - Asset Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D2%20-%20Asset%20Security.md) <br />
+[Página Principal](https://github.com/so87/CISSP-Cheat-Sheet-) <br />
+[Próximo Domínio! - D2 - Gerencimento de Ativos](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D2%20-%20Asset%20Security.md) <br />
 
-### Understand and apply concepts of confidentiality, integrity and availability
-#### Definitions and examples
-* Confidentiality - Making sure the right people can access the material.  Data must be classified so the administrators knows exactly who should have access.  Users must Identify themselves, authenticate, and then be given authorization before having access.  Contents must be encrypted or restricted for users who don't do the above.
-  * End to End symetric encryption holds confidentiality because only users with a key can see the data
-  * File permissions only allow authorized users to view the contents
+### Entender os conceitos de confidencialidade, integridade e disponibilidade.
+#### Definições e Exemplos
+* Confidencialidade - Esteja certo de que as pessoas certas podem acessar o material. Os dados devem ser classificados para que os administradores saibam quem tem acesso. Usuários devem se identificar, autenticar e precisam de autorização antes de ter acesso. Conteúdos devem ser encriptados ou restritos para usuários que não são permitidos. 
+  * Criptografia simétrica de fim a fim garante a confidêncialidade por que somentes os usua´rios possuem a chave para ver o dado. 
+  * Permissões de arquivos somente permite usuários autorizados a ver os conteúdos.
 * Integrity - Protected from changes
   * Hashing
   * Segregation of duties
