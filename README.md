@@ -24,12 +24,12 @@ Este é um material de estudo para o exame da CISSP de 2018 (traduzido e adaptad
 [Outro ótimo guia de estudos com definições e imagens](https://github.com/so87/CISSP-Study-Guide/blob/master/StudyNotes.pdf) Thanks Scott Gibbsons for sharing!
 
 # Sobre o Exame:
-* São necessários 5 anos de exéricência para a certificação.
-* 3 horas
-* 100-150 Questões de multipla escolha
-* 70% para passar
-* Todos os domínios 10-15%
-[Informações Oficiais](https://www.isc2.org/Certifications/-/media/CC72396FD9F34D3AAF073BF2AADB185C.ashx)
+São necessários 5 anos de exéricência para a certificação.<br />
+3 horas<br />
+100-150 Questões de multipla escolha<br />
+70% para passar<br />
+Todos os domínios 10-15%<br />
+[Informações Oficiais](https://www.isc2.org/Certifications/-/media/CC72396FD9F34D3AAF073BF2AADB185C.ashx)<br />
 
 # Study Tools:
 [General Tips](https://github.com/so87/CISSP-Study-Guide/blob/master/General%20Tips.md)<br />
