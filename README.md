@@ -5,7 +5,7 @@ Este é um material de estudo para o exame da CISSP de 2018 (traduzido e adaptad
 * Quer contribuir? Algo incorreto? Faça suas alterações e me mande aqui!
 
 # Guias e notas de estudo de domínio
-[Dominio 1: Gerenciamento de Risco e Segurança](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D1%20-%20Security%20and%20Risk%20Management.md)
+[Dominio 1: Gerenciamento de Risco e Segurança](D1 - Security and Risk Management.md)
 
 [Dominio 2: Gerenciamento de Ativos](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D2%20-%20Asset%20Security.md)
 
