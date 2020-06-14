@@ -1,10 +1,8 @@
-# CISSP - Guia de Estudo
+# CISSP - Guia de Estudo 
 
-![alt text](https://static1.squarespace.com/static/5606c039e4b0392b97642a02/568c23eebfe873997304f37e/57005e4101dbae8fc9b54c3c/1505756241062/cissp-logo-4lines.jpg?format=500w) <br />
-This is study material for the 2018 CISSP Exam.  There are links below to my 
-notes on each domain, information about the exam, and other study tools.
-* Like this repository?  Star it!  Helps get this out to other people!
-* Want to contribute? Something incorrect?  Make a change and push it back to me!
+Este é um material de estudo para o exame da CISSP de 2018 (traduzido do repositório [Simonews157/CISSP](https://gitlab.com/simonowens157/cissp/). Abaixo segue minhas anotações de cada domínio, informações do exame, outras ferrametas de estudo. 
+* Gostou do repostório? Favorite-o! Ajude outras pessoas. 
+* Quer contribuir? Algo incorreto? Faça suas alterações e me mande aqui!
 
 # Domain Study Guides and Notes
 [Domain 1: Security and Risk Management](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D1%20-%20Security%20and%20Risk%20Management.md)
