@@ -4,22 +4,22 @@ Este é um material de estudo para o exame da CISSP de 2018 (traduzido do reposi
 * Gostou do repostório? Favorite-o! Ajude outras pessoas. 
 * Quer contribuir? Algo incorreto? Faça suas alterações e me mande aqui!
 
-# Domain Study Guides and Notes
-[Domain 1: Security and Risk Management](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D1%20-%20Security%20and%20Risk%20Management.md)
+# Guias e notas de estudo de domínio
+[Dominio 1: Gerenciamento de Risco e Segurança](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D1%20-%20Security%20and%20Risk%20Management.md)
 
-[Domain 2: Asset Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D2%20-%20Asset%20Security.md)
+[Dominio 2: Gerenciamento de Ativos](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D2%20-%20Asset%20Security.md)
 
-[Domain 3: Security Architecture and Engineering](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D3%20-%20Security%20Architecture%20and%20Engineering.md)
+[Domínio 3: Arquitetura de Segurança e Engenharia](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D3%20-%20Security%20Architecture%20and%20Engineering.md)
 
-[Domain 4: Communication and Network Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D4%20-%20Communication%20and%20Network%20Security.md)
+[Domínio 4: Comunicações e Segurança de Redes](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D4%20-%20Communication%20and%20Network%20Security.md)
 
-[Domain 5: Identity and Access Management (IAM)](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D5%20-%20Identity%20and%20Access%20Management.md)
+[Domínio 5: Identidade e Gerenciamento de Acessos (Identity and Access Management - IAM)](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D5%20-%20Identity%20and%20Access%20Management.md)
 
-[Domain 6: Security Assessment and Testing](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D6%20-%20Security%20Assessment%20and%20Testing.md)
+[Domínio 6: Segurança de Ativos e Testes](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D6%20-%20Security%20Assessment%20and%20Testing.md)
 
-[Domain 7: Security Operations](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D7%20-%20Security%20Operations.md)
+[Domínio 7: Segurança de Operações](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D7%20-%20Security%20Operations.md)
 
-[Domain 8: Software Development Security](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D8%20-%20Software%20Development%20Security.md)
+[Domínio 8: Desenvolvimento de Software Seguro](https://github.com/so87/CISSP-Cheat-Sheet-/blob/master/D8%20-%20Software%20Development%20Security.md)
 
 [Another great study guide with definitions and pictures](https://github.com/so87/CISSP-Study-Guide/blob/master/StudyNotes.pdf) Thanks Scott Gibbsons for sharing!
 
