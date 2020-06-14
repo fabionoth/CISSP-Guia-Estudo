@@ -8,15 +8,15 @@
 * Confidencialidade - Esteja certo de que as pessoas certas podem acessar o material. Os dados devem ser classificados para que os administradores saibam quem tem acesso. Usuários devem se identificar, autenticar e precisam de autorização antes de ter acesso. Conteúdos devem ser encriptados ou restritos para usuários que não são permitidos. 
   * Criptografia simétrica de fim a fim garante a confidêncialidade por que somentes os usua´rios possuem a chave para ver o dado. 
   * Permissões de arquivos somente permite usuários autorizados a ver os conteúdos.
-* Integrity - Protected from changes
+* Integridade - Proteção contra mudanças
   * Hashing
-  * Segregation of duties
-  * approval checkpoints (SDLC)
+  * Segregação de deveres
+  * Pontos de verificação e aprovação (SDLC)
   * RSA(uses HMC)
   * IPSec
-* Availability - Information is available to users when they need it
-  * Not vulnerable to DOS
-  * Has backups and redundancy to ensure no downtime
+* Disponibilidades - Informação é disponível aos usuários quando e onde eles precisam.
+  * Não vulnerável a DoS
+  * Redundância e backups para garantir tempo de inatividade. (Has backups and redundancy to ensure no downtime)
   
 #### How do they relate to each other?
 CIA TRIAD - You can't have maximum levels of everything
