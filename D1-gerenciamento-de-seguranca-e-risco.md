@@ -25,7 +25,7 @@ CIA TRIAD - Você não pode ter o nível máximo de tudo
 </p>
 
 
-### Avaliar e aplicar os princípios de governança. <> (Evaluate and apply security governance principles)
+### Avaliar e aplicar os princípios de governança. 
 ##### Estão apenas definições de regras e processos para cada função, para garantir o gerenciamento executivo é informado sobre as decições feitas pela TI. Isso garante que a informação é adequadamente segura, comunicável, documentável e com orcamento para isso. É como um questionário. Olhe para a ISO 27000 para conseguir os requisitos para cada framework de segurança implementada. Pense que os fremeworks como blue prints e princípios de governçanca (iso 27000 ou togaf), como guias para desenhar blueprints. 
 
 
