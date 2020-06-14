@@ -1,6 +1,6 @@
 # CISSP - Guia de Estudo 
 
-Este é um material de estudo para o exame da CISSP de 2018 (traduzido do repositório [Simonews157/CISSP](https://gitlab.com/simonowens157/cissp/)). Abaixo segue minhas anotações de cada domínio, informações do exame, outras ferrametas de estudo. 
+Este é um material de estudo para o exame da CISSP de 2018 (traduzido e adaptado do repositório [Simonews157/CISSP](https://gitlab.com/simonowens157/cissp/)). Abaixo segue minhas anotações de cada domínio, informações do exame, outras ferrametas de estudo. 
 * Gostou do repostório? Favorite-o! Ajude outras pessoas. 
 * Quer contribuir? Algo incorreto? Faça suas alterações e me mande aqui!
 
